@@ -74,7 +74,7 @@ https://dzone.com/articles/kubespray-10-simple-steps-for-installing-a-product
 
 
 [rancher link]: https://rancher.com/what-is-rancher/how-is-rancher-different/
-[getting-started]: (03-getting-started.md)
+[getting-started]: 03-getting-started.md
 [kube-web-view]: https://codeberg.org/hjacobs/kube-web-view/
 [kubernator]: https://github.com/smpio/kubernator
 [k8dash]: https://github.com/herbrandson/k8dash
