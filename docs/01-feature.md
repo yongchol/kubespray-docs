@@ -20,7 +20,6 @@ Key features
 
  - For users who already <b>know Ansible well</b>
  - There is <b>no need to use another tool for provisioning and orchestration</b>
- - 
 
 
 ## Compare to others
